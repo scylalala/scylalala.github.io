@@ -6,7 +6,7 @@
   <link href="http://scylalala.github.io/atom.xml" rel="self"/>
   
   <link href="http://scylalala.github.io/"/>
-  <updated>2021-12-26T12:57:09.014Z</updated>
+  <updated>2022-01-08T16:26:53.379Z</updated>
   <id>http://scylalala.github.io/</id>
   
   <author>
@@ -18,26 +18,22 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://scylalala.github.io/2021/12/21/hello-world/"/>
-    <id>http://scylalala.github.io/2021/12/21/hello-world/</id>
-    <published>2021-12-21T03:48:53.304Z</published>
-    <updated>2021-12-26T12:57:09.014Z</updated>
+    <link href="http://scylalala.github.io/2022/01/09/helloworld/"/>
+    <id>http://scylalala.github.io/2022/01/09/helloworld/</id>
+    <published>2022-01-08T16:17:36.564Z</published>
+    <updated>2022-01-08T16:26:53.379Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;hello,</summary>
         
       
     
     
     
-    <category term="测试" scheme="http://scylalala.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="test" scheme="http://scylalala.github.io/tags/test/"/>
     
   </entry>
   
