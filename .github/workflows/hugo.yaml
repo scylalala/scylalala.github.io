@@ -2,7 +2,7 @@ name: Build and deploy
 on:
   push:
     branches:
-      - main
+      - main  # Make sure there are exactly 2 spaces before 'branches' and 4 before '- main'
   workflow_dispatch:
 permissions:
   contents: read
