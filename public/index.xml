@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on  </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2026 02:57:34 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Wed, 06 May 2026 02:57:34 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My first post&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post for my website. Actually, I already built it several years ago, but I haven&amp;rsquo;t written anything for it. Recently, I decided to pick it up. I rebuilt my website. Hope I can write more in the future.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
